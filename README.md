@@ -1,1 +1,1 @@
-# Web-Page-Gallery-Project
+# Web-Photo-Gallery-Project
